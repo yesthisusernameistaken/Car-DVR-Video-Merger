@@ -11,7 +11,7 @@ Below is a video example of the "jump" that happens when you just put the video 
   
 https://user-images.githubusercontent.com/45125817/138907682-b2b092b2-8b22-4867-968b-67a7478ead5d.mov 
 
-## Pseudo Code
+## What the code does
   
 List of directories
   
@@ -33,3 +33,6 @@ From then on, start saving the clip
 * OpenCV is for video, not audio - The audio from the video clips is lost when processed
 
 * The output files are uncompressed - The 5 minute clips take up about 2.5GB 
+	
+
+
